@@ -1,10 +1,10 @@
 # day1-Javascript
  Assignment for day-1 javascript 
-##1. Explain the use of JavaScript ( or What you can do using a JavaScript)
-##2.
-##3.
-##4.
-##5.
-##6.
-##7.
+## 1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+## 2. What is the difference between client-side and server-side?
+## 3. What is Nodejs?
+## 4. Explain Scope in JavaScript
+## 5. JavaScript is asynchronous or synchronous.
+## 6. JavaScript is Single-threaded or Multi-threaded.
+## 7. Explain DOM in your own word.
 
